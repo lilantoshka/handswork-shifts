@@ -1,0 +1,20 @@
+{
+  "name": "handswork-shifts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "mobx": "^6.10.0",
+    "mobx-react-lite": "^3.4.0",
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "@react-native-community/geolocation": "^2.0.2",
+    "react-native-permissions": "^3.7.0",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.12"
+  }
+}
